@@ -25,6 +25,12 @@
                     ]
                   },
                   { 
+                    "title": "Fan with Light",
+                    "enum": [
+                      "FanLight"
+                      ]
+                  },
+                  { 
                     "title": "Smart Plug / Barely Smart Power Strip",
                     "enum": [
                       "Outlet"
@@ -96,12 +102,12 @@
                       "SimpleBlinds"
                     ]
                   },
-                  {
-                    "title": "Simple Blinds2",
-                    "enum": [
-                      "Simple Blinds2"
-                    ]
-                  },
+                  //{
+                    //"title": "Simple Blinds2",
+                    //"enum": [
+                      //"Simple Blinds2"
+                    //]
+                  //},
                   {
                     "title": "Smart Plug w/ White and Color Lights",
                     "enum": [
